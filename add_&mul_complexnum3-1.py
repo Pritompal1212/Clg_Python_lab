@@ -1,5 +1,5 @@
 #write a python program to add and multiplycomplex number
-#write a python program to print multiplication table of a given number
+
 
 # Define two complex numbers
 complex1 = complex(2, 3)  # 2 + 3i
