@@ -12,3 +12,4 @@ if is_substring_present(main_string, substring):
     print(f"'{substring}' is present in '{main_string}'.")
 else:
     print(f"'{substring}' is NOT present in '{main_string}'.")
+
