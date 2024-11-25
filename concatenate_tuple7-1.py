@@ -1,5 +1,5 @@
 #write a program to create a tuples (name,age,address,college) for at least two members and concatenate the tuples and print the concatenated tuple
-#write a program to count the numbers of vowels in a stirng (no control flow allowed)
+
 
 # Create tuples for two members
 member1 = ("Alice", 22, "123 Elm Street", "XYZ University")
