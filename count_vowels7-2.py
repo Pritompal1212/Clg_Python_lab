@@ -31,6 +31,7 @@
 
 
 
+#write a program to count the numbers of vowels in a stirng (no control flow allowed)
 #here using manually
 
 def count_vowels(s):
