@@ -1,0 +1,7 @@
+example
+hello
+lowercase
+programming
+python
+uppercase
+world
