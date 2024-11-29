@@ -18,3 +18,6 @@ print("Array after inserting 15 at index 1:", my_array)
 # Step 5: Reverse the order of the items
 my_array.reverse()
 print("Array after reversing the order:", my_array)
+
+
+#number 21 ,,and week 11-1 pushed
