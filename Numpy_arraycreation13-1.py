@@ -43,7 +43,7 @@ print(arr8)
 
 
 
-#demonstrateto use of ndim, shape, size, dtype
+
 #demonstrate basic slicing, integer and boolean indexing
 #find min, max, sum, cumulative sum of array
 
