@@ -47,5 +47,3 @@ print(arr8)
 
 
 
-#creation a dictionary with at least five keys and each key represent value as a list where this list contains at least ten values and convert
-#this dictionary as a pandas data frame and explore the data through the data frame as follows: 1.apply head() palindrome
